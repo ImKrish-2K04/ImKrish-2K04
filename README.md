@@ -1,14 +1,14 @@
-# Hi, I'm Krishna! 👋
+# Hey, I'm Krishna! 👋
 
 🚀 **Aspiring Full-Stack Developer** | 💻 **MERN Stack & Java Enthusiast**  
-🌟 **Problem Solver** | 🎯 **Passionate Learner**  
+🌟 **Problem Solver** | 🎯 **Passionate Learner & Innovator**  
 
 ---
 
 ### 🚀 About Me  
-- 🌱 I’m currently mastering **Full-Stack Development** with **MERN Stack**.  
-- 🧠 I’m sharpening my **DSA skills** and solving problems daily to enhance my problem-solving abilities.  
-- 📚 Strong foundation in **core computer science subjects** and **aptitude**, giving me an analytical edge.  
+- 🌱 Currently diving deep into **Full-Stack Development** with **MERN Stack** and **Java**.  
+- 🧠 Sharpening my skills in **DSA** and solving challenging problems to become a better problem-solver every day.  
+- 📚 Strong foundation in **core computer science** and **aptitude**, giving me an edge in problem-solving and optimization.
 
 ---
 
@@ -23,17 +23,17 @@
 ---
 
 ### 🎯 Current Goals  
-- Build dynamic and scalable full-stack web applications.  
-- Contribute to open-source projects and grow as a developer.  
-- Solve complex problems and excel in **DSA challenges**.
+- Building **dynamic, scalable, and efficient** full-stack web apps.  
+- Contributing to **open-source projects** and growing as a developer.  
+- Solving more **complex DSA problems** and pushing the boundaries of my problem-solving skills.
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Let's Connect  
 - 📧 Email: krishmakwana1674@gmail.com  
 - 🌐 GitHub: [ImKrish-2K04](https://github.com/ImKrish-2K04)
 
 ---
 
 ### 🌟 Fun Fact  
-I’m not just a coder; I’m a lifelong learner who loves to take on challenges and grow every single day! 🚀  
+Not just a coder—I'm all about learning and evolving, tackling challenges head-on, and pushing myself to grow every day! 🚀  
