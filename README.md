@@ -40,6 +40,7 @@ I'm a **Full-Stack Developer** with a strong backend focus, building production-
 ![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Refine](https://img.shields.io/badge/Refine-2965CC?style=for-the-badge&logo=refine&logoColor=white)
+![Refine_Core](https://img.shields.io/badge/Refine_Core-D97706?style=for-the-badge&logo=refine&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -59,13 +60,21 @@ I'm a **Full-Stack Developer** with a strong backend focus, building production-
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-000000?style=for-the-badge&logoColor=white)
 
 ### AI & Integrations
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![UploadThing](https://img.shields.io/badge/UploadThing-E11D48?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-6366F1?style=for-the-badge&logoColor=white)
+
+### Security & Monitoring
+![Arcjet](https://img.shields.io/badge/Arcjet-E11D48?style=for-the-badge&logoColor=white)
+![Site24x7](https://img.shields.io/badge/Site24x7-0052CC?style=for-the-badge&logoColor=white)
+![CodeRabbitAI](https://img.shields.io/badge/CodeRabbitAI-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -117,7 +126,7 @@ I'm a **Full-Stack Developer** with a strong backend focus, building production-
 ### 🖥️ Classroom Dashboard — PERN Stack
 > A full-stack classroom management dashboard
 
-- Built with **PostgreSQL + Express + React + Node.js**
+- Built with **PostgreSQL + Express + React + Node.js + Arcjet + Refine Core + Site24x7 + CodeRabbitAI**
 - Clean UI for managing classroom data with full CRUD operations
 
 ---
